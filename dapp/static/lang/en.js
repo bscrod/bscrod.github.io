@@ -136,5 +136,9 @@ module.exports = {
         outText:'Has been out',
         rod_4:'Total unreleased options',
         rod_5:'Option cumulative return',
+
+        
+        rod_6:'Prompt',
+        rod_7:'Due to the upgrade of DAPP contract, the pledge mining function will be suspended during the upgrade period, and the option income extraction and pledge income extraction functions will not be affected.',
     }
 };
