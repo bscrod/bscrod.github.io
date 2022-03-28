@@ -139,6 +139,6 @@ module.exports = {
 
         
         rod_6:'Prompt',
-        rod_7:'Due to the upgrade of DAPP contract, the pledge mining function will be suspended during the upgrade period, and the option income extraction and pledge income extraction functions will not be affected.',
+        rod_7:'Due to the new upgrade of DAPP contract, 1. Suspend the pledge mining function during the upgrade period, 2. 3. Players holding LP will move out of liquidity mining before 29 oiclock, March today, and the technical department will compensate LP players for their losses.',
     }
 };
