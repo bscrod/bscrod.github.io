@@ -139,6 +139,6 @@ module.exports = {
 
         
         rod_6:'Prompt',
-        rod_7:'Due to the new upgrade of DAPP contract, 1. Suspend the pledge mining function during the upgrade period, 2. 3. Players holding LP will move out of liquidity mining before 29 oiclock, March today, and the technical department will compensate LP players for their losses.',
+        rod_7:'Due to the new upgrade of DAPP contract, 1. Suspend the pledge mining function during the upgrade period, 2. 3. Players who hold LP will remove LP before 0:00 today, March 29th, and the technical department will compensate LP players for their losses.',
     }
 };
