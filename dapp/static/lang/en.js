@@ -140,6 +140,9 @@ module.exports = {
         
         rod_6:'Prompt',
         rod_7:'Due to the new upgrade of DAPP contract, 1. The pledge mining function is suspended during the upgrade. 2. During the upgrade period, the extraction functions of option income and pledge income are closed. 3. Players with LP will remove LP before 0:00 today, March 29th, and the technical department will compensate LP players for their losses. 4. Please do not trade before the DAPP contract is upgraded, and please communicate with each other. Players will bear the losses caused. The DAPP contract will be upgraded at 24:00 on March 29th. Smart contract will be upgraded completely. ROD team thanks for your understanding and support!',
-        rod_8:'You have unclaimed options, total',
+        rod_8:'It turns out you have unclaimed option ROD, total',
+        rod_9:'Cancel',
+        rod_10:'To receive',
+        rod_11:'The RDO DAPP Smart Contract has been upgraded! The users pledged in the original DAPP have been returned to the original address. You can choose to hold dividends or pledge again. ROD will set sail soon!',
     }
 };
