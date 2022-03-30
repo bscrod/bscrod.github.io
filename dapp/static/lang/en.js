@@ -143,6 +143,6 @@ module.exports = {
         rod_8:'It turns out you have unclaimed option ROD, total',
         rod_9:'Cancel',
         rod_10:'To receive',
-        rod_11:'The RDO DAPP Smart Contract has been upgraded! The users pledged in the original DAPP have been returned to the original address. You can choose to hold dividends or pledge again. ROD will set sail soon!',
+        rod_11:'The RDO DAPP Smart Contract has been upgraded! The users pledged in the original DAPP have been returned to the original address. You can choose to hold dividends or pledge again. ROD will set sail soon! LP players pledge 2000 ROD, settlement of 50% of the network handling fee every six months, starting from zero on April 10, the first settlement date is November 10, work together, realize the dream together!',
     }
 };
