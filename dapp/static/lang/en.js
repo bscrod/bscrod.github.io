@@ -143,6 +143,6 @@ module.exports = {
         rod_8:'It turns out you have unclaimed option ROD, total',
         rod_9:'Cancel',
         rod_10:'To receive',
-        rod_11:'The ROD DAPP Smart Contract has been upgraded! The users pledged in the original DAPP have been returned to the original address. You can choose to hold dividends or pledge again. ROD will set sail soon! LP players pledge 2000 ROD, settlement of 50% of the network handling fee every six months, starting from zero on April 10, the first settlement date is November 10, work together, realize the dream together!',
+        rod_11:'ROD Evangelist, hello everyone: After repeated research and decision by the technical department, the following adjustments have been made for LP holders to enjoy dividends. Enter LP according to 20000 USDT (do not include 10%, did not quit LP in half a year) can enjoy bonus! Players need USDT to keep screenshots of LP entry. The dividend is 5,000 rods. 20000 USDT into LP, corresponding dividend is 5000 ROD, the same proportion increase! The share is not affected by the price of ROD.',
     }
 };
