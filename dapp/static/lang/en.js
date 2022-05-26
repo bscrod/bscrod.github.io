@@ -144,6 +144,6 @@ module.exports = {
         rod_8:'It turns out you have unclaimed option ROD, total',
         rod_9:'Cancel',
         rod_10:'To receive',
-        rod_11:'ROD Evangelist, hello everyone: After repeated research and decision by the technical department, the following adjustments have been made for LP holders to enjoy dividends. Enter LP according to 20000 USDT (do not include 10%, did not quit LP in half a year) can enjoy bonus! Players need USDT to keep screenshots of LP entry. The dividend is 5,000 rods. 20000 USDT into LP, corresponding dividend is 5000 ROD, the same proportion increase! The share is not affected by the price of ROD.',
+        rod_11:'Hello, all evangelists: In order to quickly reach 2886 times of ROD digital currency, after in-depth research of the technology department, the following matters are made! 1. All wallet addresses for option gifts shall be pledged before October 15, 2022, and the amount shall be one-fourth of the total number of independent wallet options. Two, the in-depth study of the technology department decided to launch the promotion model of LP mining in the near future, detonating the market, the only one in the world! Help ROD digital currency to achieve 2886 times quickly! Look forward to the unified implementation of global evangelists, work together!',
     }
 };
