@@ -144,6 +144,6 @@ module.exports = {
         rod_8:'It turns out you have unclaimed option ROD, total',
         rod_9:'Cancel',
         rod_10:'To receive',
-        rod_11:'Hello, all evangelists: In order to quickly reach 2886 times of ROD digital currency, after in-depth research of the technology department, the following matters are made! 1. All wallet addresses for option gifts shall be pledged before October 15, 2022, and the amount shall be one-fourth of the total number of independent wallet options. Two, the in-depth study of the technology department decided to launch the promotion model of LP mining in the near future, detonating the market, the only one in the world! Help ROD digital currency to achieve 2886 times quickly! Look forward to the unified implementation of global evangelists, work together!',
+        rod_11:'Thank all players hard sermons, as of today we will stop all ROD pledge mining functions, will be a brand new start HROD joint rotation of a business plan, business plan will be pushed to the telegraph group of part or pushed to the mailbox, the birth of HROD will push ROD digital currency rise quickly, hope that we work together, low-key sermon, Feast!',
     }
 };
