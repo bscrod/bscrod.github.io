@@ -144,6 +144,6 @@ module.exports = {
         rod_8:'It turns out you have unclaimed option ROD, total',
         rod_9:'Cancel',
         rod_10:'To receive',
-        rod_11:'Thank all players hard sermons, as of today we will stop all ROD pledge mining functions, will be a brand new start HROD joint rotation of a business plan, business plan will be pushed to the telegraph group of part or pushed to the mailbox, the birth of HROD will push ROD digital currency rise quickly, hope that we work together, low-key sermon, Feast!',
+        rod_11:'In order to meet the automatic operation of HROD blockchain, the amount of batches will be returned to players to reserve ROD is USDT from September 15, after the research and decision of the Foundation. Return scheme: the total amount of reservation (U) minus the total amount of sale (U) equals the total amount of return (U), and the remaining part will be destroyed by purchasing currency successively! HROD is expected to start in two days, please pay attention to the announcement!',
     }
 };
