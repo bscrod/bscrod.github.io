@@ -144,6 +144,6 @@ module.exports = {
         rod_8:'发现您有尚未领取的期权ROD，共计 ',
         rod_9:'取 消',
         rod_10:'立即领取',
-        rod_11:'Dear preachers: HROD Fully Automatic Blockchain protocol will be officially launched soon! HROD contract address is: 0 x43c200974b8a5eb2c6fe5251b298357f09b76578,; Official HROD DAPP address is: https://bscrod.github.io/hrod/#/, HROD foundation to wish you joy at this holy season: healthy body, all the best!',
+        rod_11:'尊敬的布道者们：HROD全自动区块链协议即将正式启动！HROD的合约地址为：0x43c200974b8a5eb2c6fe5251b298357f09b76578HROD的官方DAPP地址为：https://bscrod.github.io/hrod/#/HROD基金会恭祝大家：身体健康，万事如意！',
     },
 };
